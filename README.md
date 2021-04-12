@@ -26,6 +26,15 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="90%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9d56e826-eb14-4ed9-b737-a42ea1a8f445&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="9d56e826-eb14-4ed9-b737-a42ea1a8f445" />
+</a>
+</p>
+
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@9d56e826-eb14-4ed9-b737-a42ea1a8f445/568561a1-bdf0-46b7-94c0-b69f3ea7b5b8.png" /></a>
 
 
