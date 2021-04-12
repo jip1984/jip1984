@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 <a href="https://wakatime.com"><img width="50%" height="50%" src="https://wakatime.com/share/@9d56e826-eb14-4ed9-b737-a42ea1a8f445/a9bc1fc9-3d46-42ca-9716-06867d4272f2.png"/></a>
 </p>
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@9d56e826-eb14-4ed9-b737-a42ea1a8f445/568561a1-bdf0-46b7-94c0-b69f3ea7b5b8.png" /></a>
+
